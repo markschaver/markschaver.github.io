@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+# Name of website
+title: Schaver.com
+
+# Short description of your site
+description: Former news hack, now a diplomat.
+
+# --- Local development options ---
+# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
+# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
+
+# url is the the website domain URL without a trailing slash
+url: "https://schaver.com"
+
+# baseurl should be an empty string
+#baseurl: ""
