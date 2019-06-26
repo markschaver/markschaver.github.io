@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About this site"
+categories: [blog]
+tags: [site]
+author: Mark
 ---
 
 # Welcome
