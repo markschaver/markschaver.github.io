@@ -1,3 +1,5 @@
 
-# Nothing to see here. Move along.
+# 'In the world of diplomacy, some things are better left unsaid.'
+
+~ Lincoln Chafee
 
