@@ -1,3 +1,7 @@
+---
+title:  "Schaver.com"
+author: Mark
+---
 
 # 'In the world of diplomacy, some things are better left unsaid.'
 
