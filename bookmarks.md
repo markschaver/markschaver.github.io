@@ -1,5 +1,7 @@
 
-# !
+# Bookmarks
+
+## !
 
 * [Gmail](https://mail.google.com/mail/u/0/#inbox)
 * [Twitter](http://twitter.com/#)
@@ -8,7 +10,7 @@
 * [Github](https://github.com/markschaver/Notes)
 * [Create Google Doc](https://docs.google.com/document/u/0/create)
 
-# News and opinion
+## News and opinion
 
 * [Business Insider](http://www.businessinsider.com/)
 * [BuzzFeed](https://www.buzzfeed.com/)
@@ -44,7 +46,7 @@
 * [WeSmirch](http://wesmirch.com/)
 * [Yahoo News](http://news.yahoo.com/)
 
-# Dominican news
+## Dominican news
 
 * [7 Days](http://www.7dias.com.do/)
 * [Acento](http://acento.com.do/)
@@ -64,7 +66,7 @@
 * [Noticias SIN](http://noticiassin.com/)
 * [Periodismo Dominicano](https://periodismodominycano.blogspot.com/)
 
-# Tech
+## Tech
 
 * [Ars Technica](http://arstechnica.com/)
 * [Autohotkey](https://autohotkey.com/boards/)
@@ -100,7 +102,7 @@
 * [Workflowy blog](https://blog.workflowy.com/)
 * [Writemonkey](https://groups.google.com/forum/#!forum/writemonkey)
 
-# Foreign policy
+## Foreign policy
 
 * [Carnegie Endowment for International Peace](http://carnegieendowment.org/)
 * [Center for Security Policy](https://www.centerforsecuritypolicy.org/)
