@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schaver.com</title>
+    <link>https://schaver.com/</link>
+    <description>Recent content on Schaver.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://schaver.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About this site</title>
+      <link>https://schaver.com/about/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://schaver.com/about/</guid>
+      <description>This is the personal website of Mark Schaver. Nothing here is of official concern.</description>
+    </item>
+    
+    <item>
+      <title>Schaver.com</title>
+      <link>https://schaver.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://schaver.com/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
