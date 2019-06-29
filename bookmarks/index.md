@@ -42,7 +42,6 @@
 * [Vox](http://www.vox.com/)
 * [Wall Street Journal](http://www.wsj.com/)
 * [Washington Post](http://www.washingtonpost.com/)
-* [Weekly Standard](http://www.weeklystandard.com/)
 * [WeSmirch](http://wesmirch.com/)
 * [Yahoo News](http://news.yahoo.com/)
 
@@ -76,7 +75,6 @@
 * [Emacs Stack Exchange](http://emacs.stackexchange.com/)
 * [Google Analytics](https://analytics.google.com/analytics/web/#dashboard/7KVLaFi_Sc-Oel6UlnYisw/a80738w91775p42727/)
 * [Hacker News](https://news.ycombinator.com/)
-* [NICAR](https://mail.google.com/mail/u/0/#label/NICAR)
 * [Outliner Software](http://outlinersoftware.com/)
 * [Planet Emacsen](http://planet.emacsen.org/)
 * [Planet Python](http://planet.python.org/titles_only.html)
