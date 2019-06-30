@@ -86,6 +86,7 @@
 * [Reddit: JavaScript](http://www.reddit.com/r/javascript)
 * [Reddit: Mapporn](https://www.reddit.com/r/mapporn)
 * [Reddit: Node](https://www.reddit.com/r/node)
+* [Reddit: Notion](https://www.reddit.com/r/NotionSo/)
 * [Reddit: OneNote](https://www.reddit.com/r/OneNote/)
 * [Reddit: Perl](http://www.reddit.com/r/perl)
 * [Reddit: PHP](http://www.reddit.com/r/php)
