@@ -7,7 +7,7 @@
 * [Twitter](http://twitter.com/#)
 * [Facebook](https://www.facebook.com/)
 * [OneDrive](https://www.onedrive.com/)
-* [Github](https://github.com/markschaver/Notes)
+* [Github Notes](https://github.com/markschaver/Notes)
 * [Create Google Doc](https://docs.google.com/document/u/0/create)
 
 ## News and opinion
@@ -47,12 +47,8 @@
 
 ## Dominican news
 
-* [7 Days](http://www.7dias.com.do/)
 * [Acento](http://acento.com.do/)
-* [Al Momento](http://almomento.net/)
-* [CDN](http://www.cdn.com.do/)
 * [Diario Libre](http://www.diariolibre.com/)
-* [Dominican Journal](http://dominicanjournalusa.com/)
 * [Dominican Today](https://dominicantoday.com/)
 * [DR1 Forum](http://dr1.com/forums/forumdisplay.php/91-Daily-Headline-News)
 * [El Caribe](http://www.elcaribe.com.do/)
@@ -61,9 +57,7 @@
 * [El Nuevo Diario](https://elnuevodiario.com.do/)
 * [Hoy](http://hoy.com.do/)
 * [Listin Diario](http://www.listindiario.com/)
-* [Metro](https://www.metrord.do/)
 * [Noticias SIN](http://noticiassin.com/)
-* [Periodismo Dominicano](https://periodismodominycano.blogspot.com/)
 
 ## Tech
 
@@ -73,7 +67,6 @@
 * [Cross Validated](http://stats.stackexchange.com/)
 * [Donation Coder](http://www.donationcoder.com/forum/index.php#c2)
 * [Emacs Stack Exchange](http://emacs.stackexchange.com/)
-* [Google Analytics](https://analytics.google.com/analytics/web/#dashboard/7KVLaFi_Sc-Oel6UlnYisw/a80738w91775p42727/)
 * [Hacker News](https://news.ycombinator.com/)
 * [Outliner Software](http://outlinersoftware.com/)
 * [Planet Emacsen](http://planet.emacsen.org/)
