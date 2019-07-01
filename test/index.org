@@ -1,7 +1,0 @@
-
-* This is a test
-
-To see if it's possible
-
-** To turn straight org files into web pages
-
