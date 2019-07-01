@@ -28,6 +28,7 @@
 * [Mediagazer](http://mediagazer.com/)
 * [Memeorandum](http://memeorandum.com/)
 * [Mother Jones](http://motherjones.com/)
+* [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/)
 * [The Nation](https://www.thenation.com/)
 * [National Review](http://www.nationalreview.com/)
 * [New York Times](http://www.nytimes.com/)
@@ -120,3 +121,83 @@
 * [State Dept OIG reports](https://oig.state.gov/reports)
 * [World Press Review](http://www.worldpress.org/)
 * [Yale Journal of International Affairs](http://yalejournal.org/)
+  
+## Culture
+
+* [Language Log](https://languagelog.ldc.upenn.edu/nll/)
+* [Schneier on Security](http://www.schneier.com/blog/index.rdf)
+* [The Nib](https://thenib.com/)
+* [Eager Eyes](https://eagereyes.org/) 
+* [Retraction Watch](http://retractionwatch.wordpress.com/)
+* [Task and Purpose](http://taskandpurpose.com/)
+* [Information is Beautiful](https://informationisbeautiful.net/blog/)
+* [The Comics Journal](http://www.tcj.com/)
+* [Bates Info Tips](https://www.batesinfo.com/bates-infotips/)
+* [LARB](https://lareviewofbooks.org/)
+* [Statistical Thinking](https://www.fharrell.com/)
+* [War on the Rocks](http://warontherocks.com/)
+* [Junk Charts](http://junkcharts.typepad.com/)
+* [Stratechery](https://stratechery.com/)
+* [Small Wars Journal](http://smallwarsjournal.com/)
+* [Council on Foreign Relations - Economics](https://www.cfr.org/economics)
+* [beSpacific](http://www.bespacific.com/)
+* [Recto Verso](http://50watts.com/Recto-Verso)
+* [Terminal Lance](http://terminallance.com/)
+* [Expose Facts](https://exposefacts.org/)
+
+## Math and statistics
+
+* [[http://gregmankiw.blogspot.com/feeds/posts/default][Greg Mankiw's Blog]]
+* [[http://feeds.feedburner.com/TheQuantitativePeace][The Quantitative Peace]]
+* [[http://altgov2.org/feed/][AltGov 2]]
+* [[http://foreignserviceproblems.tumblr.com/rss][Foreign Service Problems]]
+* [[https://api.quantamagazine.org/feed/][Quanta Magazine]]
+* [[http://feeds.feedburner.com/nybooks][The New York Review of Books]]
+* [[http://feeds.feedburner.com/elsblog/RLOG][Empirical Legal Studies]]
+* [[http://www.borderlandbeat.com/feeds/posts/default][Borderland Beat]]
+* [[http://kycir.org/feed/][Kentucky Center for Investigative Reporting]]
+* [[http://lucumr.pocoo.org/feed.atom][Armin Ronacher's Thoughts and Writings]]
+* [[http://blog.dynalist.io/feed/][The Dynalist Blog]]
+* [[https://www.openthegovernment.org/feed/][Open the Government]]
+* [[http://planet.emacsen.org/atom.xml][Planet Emacsen]]
+* [[https://www.reddit.com/r/planetemacs/.rss][Planet Emacs]]
+* [[http://diplopundit.net/feed/][Diplopundit]]
+* [[http://prawfsblawg.blogs.com/prawfsblawg/atom.xml][PrawfsBlawg]]
+* [[http://feeds.feedburner.com/Jotwell][Jotwell]]
+* [[http://www.thefacultylounge.org/atom.xml][The Faculty Lounge]]
+* [[http://forensicpsychologist.blogspot.com/feeds/posts/default][IN THE NEWS]]
+* [[https://venezuelanalysis.com/rss/all][New on Venezuelanalysis.com]]
+* [[https://pandapawdragonclaw.blog/feed/][Panda Paw Dragon Claw]]
+* [[http://feeds.feedburner.com/Workflowy][WorkFlowy]]
+* [[http://www.reddit.com/r/emacs/.rss][M-x emacs-reddit]]
+* [[http://www.opensocietyfoundations.org/issues/governance-accountability/feed][Open Society Foundations - Governance & Accountability]]
+* [[http://blog.denniehoopingarner.com/feed/][Den's Blog]]
+* [[http://feeds.feedburner.com/EconomicIssuesWatch][RealTime Economic Issues Watch]]
+* [[https://news.google.com/news/rss/search/section/q/dynalist/dynalist?ned=us&hl=en&gl=US][dynalist - Google News]]
+* [[http://foiaproject.org/feed/][The FOIA Project]]
+* [[http://feeds.feedburner.com/OutlinersoftwareForum][OutlinerSoftware Forum]]
+* [[http://feeds.feedburner.com/chinafile/All][ChinaFile]]
+* [[http://takingnotenow.blogspot.com/feeds/posts/default][Taking note]]
+* [[http://feeds.feedburner.com/WarIsBoring][War Is Boring]]
+* [[https://dataharvest.eu/feed/][EIJC & Dataharvest » Feed]]
+* [[http://www.thecramped.com/feed/][The Cramped]]
+* [[https://www.muckrock.com/news/feeds/][Muckrock News]]
+* [[https://boredjihadi.net/feed/][The Bored Jihadi » Feed]]
+* [[http://www.opengovpartnership.org/rss.xml][Open Government Partnership]]
+* [[https://www.reddit.com/r/orgmode/.rss][Org-Mode]]
+* [[http://franfables.wordpress.com/feed/][franfables]]
+* [[http://chublicopinion.com/feed/][Chublic Opinion]]
+* [[http://www.aldaily.com/feed/][Arts & Letters Daily]]
+* [[http://www.schaver.com/index.xml][Schaver.com]]
+* [[http://drandus.wordpress.com/feed/][Dr Andus's toolbox]]
+* [[http://www.theodi.org/blog/feed][News]]
+* [[http://www.xkcd.com/atom.xml][xkcd.com]]
+* [[http://feeds.feedburner.com/codinghorror/][Coding Horror]]
+* [[http://aidpreneur.com/feed/][Aidpreneur]]
+* [[https://www.state.gov/rss-feed/africa/feed/][Africa – United States Department of State]]
+* [[http://stalemelting.tumblr.com/rss][he still had it 'cause they ...]]
+* [[http://simplystatistics.org/feed/][Simply Statistics]]
+* [[http://www.reddit.com/r/opendata/.rss][Open Data]]
+* [[http://andrewgelman.com/feed/][Statistical Modeling, Causal Inference, and Social Science]]
+* [[http://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss][The Privacy, Security, & OSINT Show]]
+* [[https://www.lawfareblog.com/feed][Lawfare - Hard National Security Choices]]
