@@ -85,8 +85,8 @@ Foreign affairs
 -   [World Press Review](http://www.worldpress.org/)
 -   [Yale Journal of International Affairs](http://yalejournal.org/)
 
-Dominican news
---------------
+Spanish news
+------------
 
 -   [Acento](http://acento.com.do/)
 -   [Diario Libre](http://www.diariolibre.com/)
@@ -94,11 +94,17 @@ Dominican news
 -   [DR1 Forum](http://dr1.com/forums/forumdisplay.php/91-Daily-Headline-News)
 -   [El Caribe](http://www.elcaribe.com.do/)
 -   [El Día](http://eldia.com.do/)
+-   [El Mexicano](https://www.el-mexicano.com.mx/)
 -   [El Nacional](http://elnacional.com.do/)
 -   [El Nuevo Diario](https://elnuevodiario.com.do/)
+-   [El Pais](https://elpais.com/elpais/portada_america.html)
+-   [El Sol de Tijuana](https://www.elsoldetijuana.com.mx/)
+-   [El Universal](https://www.eluniversal.com.mx/)
 -   [Hoy](http://hoy.com.do/)
 -   [Listin Diario](http://www.listindiario.com/)
 -   [Noticias SIN](http://noticiassin.com/)
+-   [Reforma](https://www.reforma.com/)
+-   [Zeta Tijuana](https://zetatijuana.com/)
 
 Tech
 ----
