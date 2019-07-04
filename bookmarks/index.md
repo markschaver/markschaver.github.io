@@ -85,8 +85,8 @@ Foreign affairs
 -   [World Press Review](http://www.worldpress.org/)
 -   [Yale Journal of International Affairs](http://yalejournal.org/)
 
-Spanish news
-------------
+News in Spanish
+---------------
 
 -   [Acento](http://acento.com.do/)
 -   [Diario Libre](http://www.diariolibre.com/)
