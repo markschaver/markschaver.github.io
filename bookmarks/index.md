@@ -6,10 +6,10 @@ Bookmarks
 
 -   [Gmail](https://mail.google.com/mail/u/0/#inbox)
 -   [OneDrive](https://www.onedrive.com/)
+-   [OneNote](https://www.onenote.com/)
 -   [Github Notes](https://github.com/markschaver/Notes)
 -   [Facebook](https://www.facebook.com/)
 -   [Twitter](http://twitter.com/#)
--   [Create Google Doc](https://docs.google.com/document/u/0/create)
 
 News and opinion
 ----------------
@@ -86,7 +86,7 @@ Foreign affairs
 -   [Yale Journal of International Affairs](http://yalejournal.org/)
 
 News in Spanish
----------------
+------------
 
 -   [Acento](http://acento.com.do/)
 -   [Diario Libre](http://www.diariolibre.com/)
