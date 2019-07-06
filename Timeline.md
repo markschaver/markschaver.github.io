@@ -1,5 +1,5 @@
 
-# Timeline
+# Clarence Boonstra-Ruth Farkas Timeline
 
 
 ## 1946
