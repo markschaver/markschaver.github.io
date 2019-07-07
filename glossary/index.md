@@ -3,7 +3,6 @@
 
 | Term         | Meaning                                                                       |
 |--------------+-------------------------------------------------------------------------------|
-| ISIS-K       | ISIS-Khorasan                                                                 |
 | 4DR          | Defections, Demobilization, Disengagement, Deradicalization and Reintegration |
 | A/GIS/IPS    | Office responsible for the Department’s records management program            |
 | AF/SA        | Bureau of African Affairs / Office of Security Affairs                        |
@@ -24,7 +23,6 @@
 | CVE          | Countering Violent Extremism                                                  |
 | DDF          | Defections and Disengaged Fighters                                            |
 | DDR          | Disarmament, Demobilization and Reintegration                                 |
-| Diffa        | Town near Chad, Niger, Nigeria. Epicenter of Boko Haram/ISIS-West Africa.     |
 | EUAM         | European Union Advisory Mission                                               |
 | EUISS        | European Union Institute for Security Studies                                 |
 | EV           | Electoral Violence                                                            |
@@ -46,7 +44,7 @@
 | IPS          | Information Programs and Services                                             |
 | IPSC         | Individual Personal Service Contract                                          |
 | ISGS         | Islamic State of the Greater Sahara                                           |
-| Isiolo       | Kenyan county on frontline in CVE battle                                      |
+| ISIS-K       | ISIS-Khorasan                                                                 |
 | ISSO         | Information Systems Security Officer                                          |
 | J            | Under Secretary for Civilian Security, Democracy, and Human Rights            |
 | JCAP         | Joint Country Action Plan                                                     |
