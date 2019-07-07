@@ -40,12 +40,10 @@ News and opinion
 -   [Salon](http://www.salon.com/)
 -   [Slate](http://www.slate.com/)
 -   [Talking Points Memo](http://www.talkingpointsmemo.com/)
--   [TMZ](http://www.tmz.com/)
 -   [Vice](http://www.vice.com/)
 -   [Vox](http://www.vox.com/)
 -   [Wall Street Journal](http://www.wsj.com/)
 -   [Washington Post](http://www.washingtonpost.com/)
--   [WeSmirch](http://wesmirch.com/)
 -   [Yahoo News](http://news.yahoo.com/)
 
 Foreign affairs
@@ -109,7 +107,7 @@ News in Spanish
 Tech
 ----
 
--   [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/)
+-   [Armin Ronacher](http://lucumr.pocoo.org/)
 -   [Ars Technica](http://arstechnica.com/)
 -   [Autohotkey](https://autohotkey.com/boards/)
 -   [Coding Horror](https://blog.codinghorror.com/)
@@ -137,6 +135,7 @@ Tech
 -   [Reddit: Python](http://www.reddit.com/r/Python/)
 -   [Reddit: Python Stats](http://www.reddit.com/r/pystats)
 -   [Reddit: Visualization](https://www.reddit.com/r/visualization)
+-   [Sacha Chua](https://sachachua.com/blog/emacs/)
 -   [Schneier on Security](http://www.schneier.com/blog/index.rdf)
 -   [Slashdot](http://slashdot.org/)
 -   [Stack Overflow](http://stackoverflow.com/)
@@ -185,5 +184,7 @@ Culture, science, journalism
 -   [The New York Review of Books](https://www.nybooks.com/)
 -   [The Nib](https://thenib.com/)
 -   [The Quantitative Peace](http://quantitativepeace.com/)
+-   [TMZ](http://www.tmz.com/)
+-   [WeSmirch](http://wesmirch.com/)
 -   [xkcd.com](http://www.xkcd.com/)
 
