@@ -14,7 +14,7 @@
 | BRR          | Bureau Resource Request                                                       |
 | BSO          | Bureau Security Officer                                                       |
 | CDG          | Cabo Delgado                                                                  |
-| CJTF-HOA     | Combined Joint Taskforce Horn of Africa                                       |
+| CJTF-HOA     | Combined Joint Task Force Horn of Africa                                       |
 | COR          | Contracting Officer Representative                                            |
 | CP           | Office of Communications and Partnerships                                     |
 | CSIRT        | Computer Security Incident Response Team                                      |
