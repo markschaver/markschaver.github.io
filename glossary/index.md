@@ -52,7 +52,6 @@
 | M            | Under Secretary for Management                                                |
 | MINUSMA      | UN Multidimensional Integrated Stabilization Mission in Mali                  |
 | MRR          | Mission Resource Request                                                      |
-| Mtwara       | Coastal town in Southern Tanzania at risk for VE.                             |
 | NCTC         | National Counter Terrorism Center                                             |
 | NOFO         | Notice of Funding Opportunity                                                 |
 | NSAG         | Non-Armed State Group                                                         |
