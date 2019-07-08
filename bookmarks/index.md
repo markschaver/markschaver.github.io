@@ -117,7 +117,6 @@ Tech
 -   [Emacs Stack Exchange](http://emacs.stackexchange.com/)
 -   [Hacker News](https://news.ycombinator.com/)
 -   [Outliner Software](http://outlinersoftware.com/)
--   [Planet Emacsen](http://planet.emacsen.org/)
 -   [Planet Python](http://planet.python.org/titles_only.html)
 -   [R Bloggers](http://www.r-bloggers.com/)
 -   [Reddit: Bioinformatics](https://www.reddit.com/r/bioinformatics/)

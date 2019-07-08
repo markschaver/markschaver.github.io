@@ -2,7 +2,7 @@
 # Glossary
 
 | Term         | Meaning                                                                       |
-|--------------+-------------------------------------------------------------------------------|
+|--------------|-------------------------------------------------------------------------------|
 | 4DR          | Defections, Demobilization, Disengagement, Deradicalization and Reintegration |
 | A/GIS/IPS    | Office responsible for the Department’s records management program            |
 | AF/SA        | Bureau of African Affairs / Office of Security Affairs                        |
@@ -14,7 +14,7 @@
 | BRR          | Bureau Resource Request                                                       |
 | BSO          | Bureau Security Officer                                                       |
 | CDG          | Cabo Delgado                                                                  |
-| CJTF-HOA     | Combined Joint Task Force Horn of Africa                                       |
+| CJTF-HOA     | Combined Joint Task Force Horn of Africa                                      |
 | COR          | Contracting Officer Representative                                            |
 | CP           | Office of Communications and Partnerships                                     |
 | CSIRT        | Computer Security Incident Response Team                                      |
