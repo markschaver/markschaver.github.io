@@ -7,7 +7,10 @@ Bookmarks
 -   [Gmail](https://mail.google.com/mail/u/0/#inbox)
 -   [OneDrive](https://www.onedrive.com/)
 -   [OneNote](https://www.onenote.com/)
--   [Github Notes](https://github.com/markschaver/Notes)
+-   [Github notes](https://github.com/markschaver/Notes)
+-   [Github todo](https://github.com/markschaver/Notes/blob/master/Todo.org)
+-   [Github checklist](https://github.com/markschaver/Notes/blob/master/Checklist.org)
+-   [Microsoft apps](http://myapps.microsoft.com)
 -   [Facebook](https://www.facebook.com/)
 -   [Twitter](http://twitter.com/#)
 
