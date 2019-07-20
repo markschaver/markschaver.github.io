@@ -2,8 +2,6 @@ Bookmarks
 =========
 
 !
--
-
 -   [Gmail](https://mail.google.com/mail/u/0/#inbox)
 -   [OneDrive](https://www.onedrive.com/)
 -   [OneNote](https://www.onenote.com/)
