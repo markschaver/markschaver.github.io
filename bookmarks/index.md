@@ -4,10 +4,6 @@ Bookmarks
 !
 -   [Gmail](https://mail.google.com/mail/u/0/#inbox)
 -   [OneDrive](https://www.onedrive.com/)
--   [OneNote](https://www.onenote.com/)
--   [Checklist](https://github.com/markschaver/Notes/blob/master/Checklist.org)
--   [Todo](https://github.com/markschaver/Notes/blob/master/Todo.org)
--   [Notes](https://github.com/markschaver/Notes/blob/master/Notes.org)
 -   [Microsoft apps](http://myapps.microsoft.com)
 -   [Facebook](https://www.facebook.com/)
 -   [Twitter](http://twitter.com/#)
