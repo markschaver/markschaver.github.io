@@ -30,6 +30,7 @@ News and opinion
 -   [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/)
 -   [The Nation](https://www.thenation.com/)
 -   [National Review](http://www.nationalreview.com/)
+-   [New Humanitarian](https://www.thenewhumanitarian.org/)
 -   [New York Times](http://www.nytimes.com/)
 -   [Politico](http://www.politico.com/)
 -   [Real Clear Investigations](https://www.realclearinvestigations.com/)
