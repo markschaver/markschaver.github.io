@@ -55,6 +55,7 @@ Foreign affairs
 -   [China File](http://www.chinafile.com/)
 -   [China File Asia Blog](http://www.chinafile.com/publications/asia-blog)
 -   [Chublic Opinion](http://chublicopinion.com/)
+-   [Cipher Brief](https://www.thecipherbrief.com/)
 -   [Columbia Journal of International Affairs](https://jia.sipa.columbia.edu/)
 -   [Council on Foreign Relations](https://www.cfr.org/)
 -   [Devex](https://www.devex.com/)
