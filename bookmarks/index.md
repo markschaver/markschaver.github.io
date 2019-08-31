@@ -85,11 +85,10 @@ China and Hong Kong
 - [China Digital Times](https://chinadigitaltimes.net/)
 - [China File](http://www.chinafile.com/)
 - [China File Asia Blog](http://www.chinafile.com/publications/asia-blog)
-- [China News Service](http://www.ecns.cn/)
+- [China News Serreavice](http://www.ecns.cn/)
 - [Chublic Opinion](http://chublicopinion.com/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/)
 - [Panda Paw Dragon Claw](https://pandapawdragonclaw.blog/)
-- [supchina](https://chinadigitaltimes.net/)
 
 
 Economics
@@ -98,8 +97,10 @@ Economics
 - [Cafe Hayek](https://cafehayek.com/)
 - [Council on Foreign Relations Economics](https://www.cfr.org/economics)
 - [EconLog](http://www.econlib.org/econlog/)
+- [Greg Mankiw's Blog](http://gregmankiw.blogspot.com/)
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Mish Talk - Global Economic Trend Analysis](https://moneymaven.io/mishtalk/)
+- [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
 - [Tim Harford - Undercover Economist](http://timharford.com/articles/undercovereconomist/)
 - [Truth on the Market](https://truthonthemarket.com/)
 
@@ -168,7 +169,6 @@ Tech
 Culture, science, journalism
 ----------------------------
 
-- [AltGov 2](http://altgov2.org/)
 - [Arts & Letters Daily](http://www.aldaily.com/)
 - [Bates Info Tips](https://www.batesinfo.com/bates-infotips/)
 - [beorg forum](https://appsonthemove.freshdesk.com/support/discussions/14000033232)
@@ -178,7 +178,6 @@ Culture, science, journalism
 - [Empirical Legal Studies](https://www.elsblog.org/)
 - [Expose Facts](https://exposefacts.org/)
 - [Forensic psychologist blog](http://forensicpsychologist.blogspot.com/)
-- [Greg Mankiw's Blog](http://gregmankiw.blogspot.com/)
 - [Information is Beautiful](https://informationisbeautiful.net/blog/)
 - [Jotwell](https://jotwell.com/)
 - [Junk Charts](http://junkcharts.typepad.com/)
@@ -189,7 +188,6 @@ Culture, science, journalism
 - [Open the Government](https://www.openthegovernment.org/)
 - [PrawfsBlawg](http://prawfsblawg.blogs.com/)
 - [Quanta Magazine](https://quantamagazine.org/feed/)
-- [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
 - [Recto Verso](http://50watts.com/Recto-Verso)
 - [Retraction Watch](http://retractionwatch.wordpress.com/)
 - [Simply Statistics](http://simplystatistics.org/)
