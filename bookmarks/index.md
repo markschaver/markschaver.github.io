@@ -102,6 +102,7 @@ Economics
 - [Mish Talk - Global Economic Trend Analysis](https://moneymaven.io/mishtalk/)
 - [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
 - [Tim Harford - Undercover Economist](http://timharford.com/articles/undercovereconomist/)
+- [Trading Economics](https://tradingeconomics.com/)
 - [Truth on the Market](https://truthonthemarket.com/)
 
 
