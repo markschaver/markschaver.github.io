@@ -94,16 +94,28 @@ China and Hong Kong
 Economics
 ---------
 - [Angry Bear](https://angrybearblog.com/)
+- [Big Picture](https://ritholtz.com/)
 - [Cafe Hayek](https://cafehayek.com/)
+- [Calculated Risk](https://www.calculatedriskblog.com/)
+- [Confessions of a Supply-Side Liberal](https://blog.supplysideliberal.com/)
+- [Conversable Economist](https://conversableeconomist.blogspot.com/)
 - [Council on Foreign Relations Economics](https://www.cfr.org/economics)
+- [Econbrowser](http://econbrowser.com/)
 - [EconLog](http://www.econlib.org/econlog/)
+- [Enlightened Economist](http://www.enlightenmenteconomics.com/blog/)
 - [Greg Mankiw's Blog](http://gregmankiw.blogspot.com/)
+- [Macro Musings](https://macromarketmusings.blogspot.com/)
+- [Mainly Macro](https://mainlymacro.blogspot.com/)
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Mish Talk - Global Economic Trend Analysis](https://moneymaven.io/mishtalk/)
+- [Naked Capitalism](https://www.nakedcapitalism.com/)
+- [New Economic Perspectives](https://neweconomicperspectives.org/)
 - [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
+- [Seeking Alpha](https://seekingalpha.com/market-news)
 - [Tim Harford - Undercover Economist](http://timharford.com/articles/undercovereconomist/)
 - [Trading Economics](https://tradingeconomics.com/)
 - [Truth on the Market](https://truthonthemarket.com/)
+- [ZeroHedge](https://www.zerohedge.com/)
 
 
 News in Spanish
