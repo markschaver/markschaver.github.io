@@ -85,7 +85,7 @@ China and Hong Kong
 - [China Digital Times](https://chinadigitaltimes.net/)
 - [China File](http://www.chinafile.com/)
 - [China File Asia Blog](http://www.chinafile.com/publications/asia-blog)
-- [China News Serreavice](http://www.ecns.cn/)
+- [China News Service](http://www.ecns.cn/)
 - [Chublic Opinion](http://chublicopinion.com/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/)
 - [Panda Paw Dragon Claw](https://pandapawdragonclaw.blog/)
@@ -112,10 +112,8 @@ Economics
 - [New Economic Perspectives](https://neweconomicperspectives.org/)
 - [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
 - [Seeking Alpha](https://seekingalpha.com/market-news)
-- [Tim Harford - Undercover Economist](http://timharford.com/articles/undercovereconomist/)
 - [Trading Economics](https://tradingeconomics.com/)
 - [Truth on the Market](https://truthonthemarket.com/)
-- [ZeroHedge](https://www.zerohedge.com/)
 
 
 News in Spanish
