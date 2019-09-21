@@ -1,5 +1,5 @@
-Bookmarks
-=========
+
+## Bookmarks
 
 !
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
@@ -8,10 +8,8 @@ Bookmarks
 - [Facebook](https://www.facebook.com/)
 - [Twitter](http://twitter.com/#)
 
-News and opinion
-----------------
+## News and opinion
 
-- [Business Insider](http://www.businessinsider.com/)
 - [BuzzFeed](https://www.buzzfeed.com/)
 - [CNN](http://www.cnn.com/)
 - [Commentary](https://www.commentarymagazine.com/)
@@ -39,12 +37,10 @@ News and opinion
 - [Talking Points Memo](http://www.talkingpointsmemo.com/)
 - [Vice](http://www.vice.com/)
 - [Vox](http://www.vox.com/)
-- [Wall Street Journal](http://www.wsj.com/)
 - [Washington Post](http://www.washingtonpost.com/)
 - [Yahoo News](http://news.yahoo.com/)
 
-Foreign affairs
----------------
+## Foreign affairs
 
 - [Aidpreneur](http://aidpreneur.com/)
 - [Borderland Beat](http://www.borderlandbeat.com/)
@@ -78,9 +74,8 @@ Foreign affairs
 - [World Press Review](http://www.worldpress.org/)
 - [Yale Journal of International Affairs](http://yalejournal.org/)
 
+## China and Hong Kong
 
-China and Hong Kong
--------------------
 - [China Daily](http://www.chinadaily.com.cn/)
 - [China Digital Times](https://chinadigitaltimes.net/)
 - [China File](http://www.chinafile.com/)
@@ -90,9 +85,9 @@ China and Hong Kong
 - [Hong Kong Free Press](https://www.hongkongfp.com/)
 - [Panda Paw Dragon Claw](https://pandapawdragonclaw.blog/)
 
+## Economics
 
-Economics
----------
+- [Business Insider](http://www.businessinsider.com/)
 - [Angry Bear](https://angrybearblog.com/)
 - [Big Picture](https://ritholtz.com/)
 - [Cafe Hayek](https://cafehayek.com/)
@@ -104,20 +99,21 @@ Economics
 - [EconLog](http://www.econlib.org/econlog/)
 - [Enlightened Economist](http://www.enlightenmenteconomics.com/blog/)
 - [Greg Mankiw's Blog](http://gregmankiw.blogspot.com/)
+- [Harvard Business Review](https://hbr.org/)
 - [Macro Musings](https://macromarketmusings.blogspot.com/)
 - [Mainly Macro](https://mainlymacro.blogspot.com/)
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Mish Talk - Global Economic Trend Analysis](https://moneymaven.io/mishtalk/)
 - [Naked Capitalism](https://www.nakedcapitalism.com/)
 - [New Economic Perspectives](https://neweconomicperspectives.org/)
+- [Real Clear Markets](https://www.realclearmarkets.com/)
 - [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
 - [Seeking Alpha](https://seekingalpha.com/market-news)
 - [Trading Economics](https://tradingeconomics.com/)
 - [Truth on the Market](https://truthonthemarket.com/)
+- [Wall Street Journal](http://www.wsj.com/)
 
-
-News in Spanish
-------------
+## News in Spanish
 
 - [Acento](http://acento.com.do/)
 - [Diario Libre](http://www.diariolibre.com/)
@@ -137,8 +133,7 @@ News in Spanish
 - [Reforma](https://www.reforma.com/)
 - [Zeta Tijuana](https://zetatijuana.com/)
 
-Tech
-----
+## Tech
 
 - [Armin Ronacher](http://lucumr.pocoo.org/)
 - [Ars Technica](http://arstechnica.com/)
@@ -177,8 +172,7 @@ Tech
 - [Workflowy blog](https://blog.workflowy.com/)
 - [Writemonkey](https://groups.google.com/forum/#!forum/writemonkey)
 
-Culture, science, journalism
-----------------------------
+## Culture, science, journalism
 
 - [Arts & Letters Daily](http://www.aldaily.com/)
 - [Bates Info Tips](https://www.batesinfo.com/bates-infotips/)
