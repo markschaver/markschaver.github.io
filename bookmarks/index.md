@@ -108,7 +108,7 @@
 - [New Economic Perspectives](https://neweconomicperspectives.org/)
 - [Real Clear Markets](https://www.realclearmarkets.com/)
 - [RealTime Economic Issues Watch](https://www.piie.com/blogs/realtime-economic-issues-watch)
-- [Seeking Alpha](https://seekingalpha.com/market-news)
+- [Seeking Alpha](https://seekingalpha.com/)
 - [Trading Economics](https://tradingeconomics.com/)
 - [Truth on the Market](https://truthonthemarket.com/)
 - [Wall Street Journal](http://www.wsj.com/)
