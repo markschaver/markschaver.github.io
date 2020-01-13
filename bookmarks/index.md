@@ -192,6 +192,7 @@
 - [Simply Statistics](http://simplystatistics.org/)
 - [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
 - [Statistical Thinking](https://www.fharrell.com/)
+- [Sublime Text Forum](https://forum.sublimetext.com/)
 - [Taking note](http://takingnotenow.blogspot.com/)
 - [Terminal Lance](http://terminallance.com/)
 - [The Comics Journal](http://www.tcj.com/)
