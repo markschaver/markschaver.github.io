@@ -1,26 +1,46 @@
 <html>
+
 <head>
-<title>Timestamp</title>
+    <title>Timestamp</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            font-size: 70pt;
+        }
+        
+        body {
+            display: table;
+        }
+        
+        .my-block {
+            text-align: center;
+            display: table-cell;
+            vertical-align: middle;
+        }
+    </style>
 </head>
+
 <body>
+    <p id="unique-id" class="my-block"></p>
 
-<center><h1><p id="unique-id"></p></h1></center>
+    <script type="text/javascript">
+        var currentDate = new Date();
 
-<script type="text/javascript">
-	
-var currentDate = new Date();
-
-document.getElementById("unique-id").innerHTML = 
-	currentDate.getFullYear() + 
-	"-" + 
-	('0' + (currentDate.getMonth()+1)).slice(-2)  + 
-	"-" +
-	('0' + (currentDate.getDate())).slice(-2) +
-	"-" +
-	('0' + (currentDate.getHours())).slice(-2) + 
-	('0' + (currentDate.getMinutes())).slice(-2)
-
-</script>		
+        document.getElementById("unique-id").innerHTML =
+            currentDate.getFullYear() +
+            "-" +
+            ('0' + (currentDate.getMonth() + 1)).slice(-2) +
+            "-" +
+            ('0' + (currentDate.getDate())).slice(-2) +
+            "-" +
+            ('0' + (currentDate.getHours())).slice(-2) +
+            ('0' + (currentDate.getMinutes())).slice(-2)
+    </script>
 
 </body>
+
 </html>
