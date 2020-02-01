@@ -49,6 +49,7 @@
 - [Cipher Brief](https://www.thecipherbrief.com/)
 - [Columbia Journal of International Affairs](https://jia.sipa.columbia.edu/)
 - [Council on Foreign Relations](https://www.cfr.org/)
+- [DefenseOne](https://www.defenseone.com/)
 - [Devex](https://www.devex.com/)
 - [Diplopundit](http://diplopundit.net/)
 - [European Institute for Security Studies](https://www.iss.europa.eu/)
@@ -76,11 +77,11 @@
 - [China Daily](http://www.chinadaily.com.cn/)
 - [China Digital Times](https://chinadigitaltimes.net/)
 - [China File](http://www.chinafile.com/)
-- [China File Asia Blog](http://www.chinafile.com/publications/asia-blog)
 - [China News Service](http://www.ecns.cn/)
 - [Chublic Opinion](http://chublicopinion.com/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/)
 - [Panda Paw Dragon Claw](https://pandapawdragonclaw.blog/)
+- [South China Morning Post](https://www.scmp.com/)
  
 ## Economics
 - [Angry Bear](https://angrybearblog.com/)
