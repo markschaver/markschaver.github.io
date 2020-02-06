@@ -34,6 +34,8 @@
         <span>
             <p id="unique-id"></p>
             <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('unique-id').innerHTML)">Copy</button>
+            <p id="shorteudate"></p>
+            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shorteudate').innerHTML)">Copy</button>
             <p id="shortdate"></p>
             <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shortdate').innerHTML)">Copy</button>
             <p id="longdate"></p>
@@ -60,9 +62,13 @@ var long_now = moment().format('dddd, MMMM Do, YYYY')
 document.getElementById("longdate").innerHTML =
     long_now;
 
-var short_now = moment().format('YYYY-DD-MM')
+var short_now = moment().format('M/D/YYYY')
 document.getElementById("shortdate").innerHTML =
     short_now;
+
+var short_eu_now = moment().format('YYYY-DD-MM')
+document.getElementById("shorteudate").innerHTML =
+    short_eu_now;
 
 
 function copyToClipboard(text) {
