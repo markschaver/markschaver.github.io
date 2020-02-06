@@ -6,14 +6,14 @@
         html,
         body {
             width: 100%;
-            font-size: 70pt;
+            font-size: 30pt;
        }
            
         button {
-            height:20px; 
+            height:25px; 
             position:relative; 
-            margin: -50px -50px;
-            width:100px; 
+            margin: -30px -30px;
+            width:60px; 
             top:50%; 
             left:50%;
         }
@@ -23,6 +23,10 @@
         }
 
     </style>
+    <script src="moment.js"></script>
+    <script>
+    moment().format();
+    </script>
 </head>
 
 <body>
@@ -30,6 +34,10 @@
         <span>
             <p id="unique-id"></p>
             <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('unique-id').innerHTML)">Copy</button>
+            <p id="shortdate"></p>
+            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shortdate').innerHTML)">Copy</button>
+            <p id="longdate"></p>
+            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('longdate').innerHTML)">Copy</button>
         </span>
     
 </body>
@@ -47,9 +55,18 @@
     ('0' + (currentDate.getHours())).slice(-2) +
     ('0' + (currentDate.getMinutes())).slice(-2);
 
+
+var long_now = moment().format('dddd, MMMM Do, YYYY')
+document.getElementById("longdate").innerHTML =
+    long_now;
+
+var short_now = moment().format('YYYY-DD-MM')
+document.getElementById("shortdate").innerHTML =
+    short_now;
+
+
 function copyToClipboard(text) {
     window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
 }
 
 </script>
-
