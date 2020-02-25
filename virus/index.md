@@ -11,7 +11,7 @@
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [Eureka Alert](https://www.eurekalert.org/)
 - [GISAID](https://www.gisaid.org/)
-- [Google Scholar](https://scholar.google.com/scholar?as_ylo=2020&q=coronavirus+wuhan&hl=en&as_sdt=0,47)
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&as_ylo=2020&q=covid-19&btnG=)
 - [HHS](https://www.hhs.gov/)
 - [JAMA](https://jamanetwork.com/)
 - [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
