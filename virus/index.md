@@ -34,6 +34,7 @@
 - [Foreign Policy](https://foreignpolicy.com/projects/coronavirus-wuhan-china-pandemic-outbreak-guide-2020/)
 - [News Now](https://www.newsnow.co.uk/h/Hot+Topics/China+Coronavirus)
 - [South China Morning Post](https://www.scmp.com/)
+- [Stat](https://www.statnews.com/tag/coronavirus/)
 - [Stephen McDonell, BBC](https://twitter.com/StephenMcDonell)
 - [Taiwan News](https://www.taiwannews.com.tw/en/index)
 - [Twitter](https://twitter.com/search?q=%23coronavirus)
