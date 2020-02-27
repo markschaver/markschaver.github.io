@@ -38,6 +38,7 @@
 - [Stephen McDonell, BBC](https://twitter.com/StephenMcDonell)
 - [Taiwan News](https://www.taiwannews.com.tw/en/index)
 - [Twitter](https://twitter.com/search?q=%23coronavirus)
+- [Worldometers](https://www.worldometers.info/coronavirus/)
 
 ## Other
 
