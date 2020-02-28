@@ -17,6 +17,7 @@
 - [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
     - [Raw Johns Hopkins data](https://github.com/CSSEGISandData/COVID-19)
 - [The Lancet](https://www.thelancet.com/)
+- [Medical Student fact summary](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 - [Military Health Service](https://health.mil/News/In-the-Spotlight/Coronavirus)
 - [New England Journal of Medicine](https://www.nejm.org/)
 - [Nextstrain](https://nextstrain.org/ncov)
