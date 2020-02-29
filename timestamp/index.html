@@ -1,5 +1,4 @@
 <html>
-
 <head>
     <title>Timestamp</title>
     <style>
@@ -31,16 +30,19 @@
 
 <body>
 
-        <span>
-            <p id="unique-id"></p>
-            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('unique-id').innerHTML)">Copy</button>
-            <p id="shorteudate"></p>
-            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shorteudate').innerHTML)">Copy</button>
-            <p id="shortdate"></p>
-            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shortdate').innerHTML)">Copy</button>
-            <p id="longdate"></p>
-            <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('longdate').innerHTML)">Copy</button>
-        </span>
+    <span>
+        <p id="shorteudate"></p>
+        <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shorteudate').innerHTML)">Copy</button>
+
+        <p id="unique-id"></p>
+        <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('unique-id').innerHTML)">Copy</button>
+        
+        <p id="shortdate"></p>
+        <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('shortdate').innerHTML)">Copy</button>
+        
+        <p id="longdate"></p>
+        <button id="demo" autofocus onclick="copyToClipboard(document.getElementById('longdate').innerHTML)">Copy</button>
+    </span>
     
 </body>
 
@@ -69,7 +71,6 @@ document.getElementById("shortdate").innerHTML =
 var short_eu_now = moment().format('YYYY-DD-MM')
 document.getElementById("shorteudate").innerHTML =
     short_eu_now;
-
 
 function copyToClipboard(text) {
     window.prompt("Copy to clipboard: Ctrl+C, Enter", text);
