@@ -11,6 +11,7 @@
 - [Cell Press](https://www.cell.com/2019-nCOV)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [Eureka Alert](https://www.eurekalert.org/)
+- [FDA press announcements](https://www.fda.gov/news-events/fda-newsroom/press-announcements)
 - [GISAID](https://www.gisaid.org/)
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&as_ylo=2020&q=covid-19&btnG=)
 - [HHS](https://www.hhs.gov/)
