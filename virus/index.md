@@ -46,7 +46,6 @@
 -   [Nextstrain](https://nextstrain.org/ncov)
 -   [Public Health England](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-background-information/wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features)
 -   [The Scientist](https://www.the-scientist.com/search?for=coronavirus)
--   [State Dept internal Covid-19 page](https://infocentral.state.gov/topics/health/coronavirus/)
 -   [UpToDate](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
 -   [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
 -   [Washington D.C. surveillance page](https://coronavirus.dc.gov/page/coronavirus-surveillance-data)
