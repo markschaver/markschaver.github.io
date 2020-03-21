@@ -1,5 +1,24 @@
 
 # COVID-19
+
+## !
+-   [Caixin Global](https://www.caixinglobal.com)
+-   [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+-   [Mish Talk](https://moneymaven.io/mishtalk/)
+-   [News Now World](https://www.newsnow.co.uk/h/Hot+Topics/China+Coronavirus)
+-   [News Now US](https://www.newsnow.co.uk/h/Hot+Topics/US+Coronavirus+Outbreak)
+-   [NYT](https://www.nytimes.com/)
+-   [NYT U.S. map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+-   [South China Morning Post](https://www.scmp.com/)
+-   [Twitter](https://twitter.com/hashtag/coronavirus?lang=en)
+-   [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
+-   [Wall Street Journal](https://www.wsj.com/)
+-   [Washington D.C. surveillance page](https://coronavirus.dc.gov/page/coronavirus-surveillance-data)
+-   [Washington Post](https://www.washingtonpost.com/)
+-   [Our World in Data](https://ourworldindata.org/coronavirus)
+-   [Reddit Coronavirus](https://www.reddit.com/r/Coronavirus/)
+-   [Reddit COVID-19](https://www.reddit.com/r/COVID19/)
+-   [Worldometers](https://www.worldometers.info/coronavirus/)
  
 ## Academic/Official 
 
