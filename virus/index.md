@@ -72,7 +72,7 @@
 -   [Josh Marshall\'s Twitter list](https://twitter.com/i/lists/1233998285779632128)
 -   [Memory COVID-19](https://github.com/2019ncovmemory/nCovMemory)
 -   [Memory Honest](https://github.com/memoryhonest/nCovMemory-en)
--   [Money Maven](https://moneymaven.io/mishtalk/)
+-   [Mish Talk](https://moneymaven.io/mishtalk/)
 -   [Our World in Data](https://ourworldindata.org/coronavirus)
 -   [Reddit Coronavirus](https://www.reddit.com/r/Coronavirus/)
 -   [Reddit COVID-19](https://www.reddit.com/r/COVID19/)
