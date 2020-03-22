@@ -3,6 +3,7 @@
 
 ## !
 -   [Caixin Global](https://www.caixinglobal.com)
+-   [Financial Times tracker](https://www.ft.com/coronavirus-latest)
 -   [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 -   [Mish Talk](https://moneymaven.io/mishtalk/)
 -   [News Now World](https://www.newsnow.co.uk/h/Hot+Topics/China+Coronavirus)
@@ -59,6 +60,7 @@
 -   [BNO News](https://twitter.com/BNODesk)
 -   [Caixin Global](https://www.caixinglobal.com)
 -   [China Digital Times](https://chinadigitaltimes.net/)
+-   [Financial Times tracker](https://www.ft.com/coronavirus-latest)
 -   [Foreign Policy](https://foreignpolicy.com/projects/coronavirus-wuhan-china-pandemic-outbreak-guide-2020/)
 -   [Google News](https://news.google.com/search?q=covid-19&hl=en-US&gl=US&ceid=US%3Aen)
 -   [NYT](https://www.nytimes.com/)
