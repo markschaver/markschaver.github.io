@@ -2,6 +2,7 @@
 # COVID-19
 
 ## !
+-   [BNO News](https://twitter.com/BNODesk)
 -   [Caixin Global](https://www.caixinglobal.com)
 -   [Financial Times tracker](https://www.ft.com/coronavirus-latest)
 -   [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
@@ -82,6 +83,7 @@
 -   [Coronainfo.xyz](https://coronainfo.xyz/)
 -   [Covid-19 Data Repository](https://github.com/adamevers/us-covid19)
 -   [Covid-19 Progression](https://coronavirus.arik.io/)
+-   [Data Drum Covid-19 data](https://www.datadrum.com/main.php?package=CV)
 -   [Flutrackers.com forum](https://flutrackers.com/forum/forum)
 -   [Hammabacher/Madrigal state counts](https://docs.google.com/spreadsheets/d/18oVRrHj3c183mHmq3m89_163yuYltLNlOmPerQ18E8w/htmlview?sle=true)
 -   [Harry Chen PhD](https://twitter.com/IsChinar)
