@@ -82,6 +82,7 @@
 ## Other
 
 -   [Coronainfo.xyz](https://coronainfo.xyz/)
+-   [Covid tracking project](https://covidtracking.com/api/)
 -   [Covid-19 Data Repository](https://github.com/adamevers/us-covid19)
 -   [Covid-19 Progression](https://coronavirus.arik.io/)
 -   [CSIS Daily Africa Covid-19 update](https://www.csis.org/programs/africa-program/covid-19-coverage)
