@@ -184,6 +184,7 @@
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 - [LARB](https://lareviewofbooks.org/)
 - [Muckrock News](https://www.muckrock.com/news/)
+- [New York Review of Books](https://www.nybooks.com/)
 - [Open Data](http://www.reddit.com/r/opendata/)
 - [Open the Government](https://www.openthegovernment.org/)
 - [PrawfsBlawg](http://prawfsblawg.blogs.com/)
