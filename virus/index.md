@@ -81,7 +81,6 @@
  
 ## Other
 
--   [Coronainfo.xyz](https://coronainfo.xyz/)
 -   [Covid tracking project](https://covidtracking.com/api/)
 -   [Covid-19 Data Repository](https://github.com/adamevers/us-covid19)
 -   [Covid-19 Progression](https://coronavirus.arik.io/)
@@ -89,7 +88,6 @@
 -   [Data Drum Covid-19 data](https://www.datadrum.com/main.php?package=CV)
 -   [Flutrackers.com forum](https://flutrackers.com/forum/forum)
 -   [Hammabacher/Madrigal state counts](https://docs.google.com/spreadsheets/d/18oVRrHj3c183mHmq3m89_163yuYltLNlOmPerQ18E8w/htmlview?sle=true)
--   [Harry Chen PhD](https://twitter.com/IsChinar)
 -   [Josh Marshall\'s Twitter list](https://twitter.com/i/lists/1233998285779632128)
 -   [Memory COVID-19](https://github.com/2019ncovmemory/nCovMemory)
 -   [Memory Honest](https://github.com/memoryhonest/nCovMemory-en)
