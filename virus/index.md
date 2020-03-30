@@ -2,7 +2,6 @@
 # COVID-19
 
 ## !
-- [BNO News](https://twitter.com/BNODesk)
 - [Caixin Global](https://www.caixinglobal.com)
 - [CSIS Daily Africa Covid-19 update](https://www.csis.org/programs/africa-program/covid-19-coverage)
 - [Financial Times tracker](https://www.ft.com/coronavirus-latest)
