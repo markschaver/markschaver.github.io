@@ -1,23 +1,6 @@
 
 # COVID-19
 
-## !
-- [Caixin Global](https://www.caixinglobal.com)
-- [CSIS Daily Africa Covid-19 update](https://www.csis.org/programs/africa-program/covid-19-coverage)
-- [Financial Times tracker](https://www.ft.com/coronavirus-latest)
-- [Johns Hopkins dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-- [News Now World](https://www.newsnow.co.uk/h/Hot+Topics/China+Coronavirus)
-- [News Now US](https://www.newsnow.co.uk/h/Hot+Topics/US+Coronavirus+Outbreak)
-- [New Yorker coronavirus coverage](https://www.newyorker.com/tag/coronavirus)
-- [NYRB Pandemic Journal](https://www.nybooks.com/daily/)
-- [NYT U.S. map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
-- [South China Morning Post](https://www.scmp.com/)
-- [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
-- [Washington D.C. surveillance page](https://coronavirus.dc.gov/page/coronavirus-surveillance-data)
-- [Reddit Coronavirus](https://www.reddit.com/r/Coronavirus/)
-- [Reddit COVID-19](https://www.reddit.com/r/COVID19/)
-- [Worldometers](https://www.worldometers.info/coronavirus/)
- 
 ## Academic/Official 
 
 - [American Society of Microbiology](https://asm.org/Press-Releases/2020/nCoV2019-Resources)
@@ -27,6 +10,7 @@
 - [CDC Information for Health Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
 - [Cell Press](https://www.cell.com/2019-nCOV)
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+- [COVID-19 Sanity](http://biomed-sanity.com/)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [ESRI Covid-19 GIS Hub](https://coronavirus-resources.esri.com/)
 - [ESRI Data](https://coronavirus-resources.esri.com/#get-data)
@@ -47,6 +31,7 @@
 - [New England Journal of Medicine](https://www.nejm.org/)
 - [Nextstrain](https://nextstrain.org/ncov)
 - [Public Health England](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-background-information/wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features)
+- [St. Louis Fed Covid-19 Resources](https://research.stlouisfed.org/resources/covid-19/)
 - [The Scientist](https://www.the-scientist.com/search?for=coronavirus)
 - [UpToDate](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
 - [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
