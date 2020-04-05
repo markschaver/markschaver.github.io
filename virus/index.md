@@ -16,7 +16,6 @@
 - [Covid-19 Data Repository](https://github.com/adamevers/us-covid19)
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 - [Covid-19 Progression](https://coronavirus.arik.io/)
-- [COVID-19 Sanity](http://biomed-sanity.com/)
 - [CSIS Daily Africa Covid-19 update](https://www.csis.org/programs/africa-program/covid-19-coverage)
 - [Data Drum Covid-19 data](https://www.datadrum.com/main.php?package=CV)
 - [ECDCP data file](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
