@@ -56,6 +56,7 @@
 - [NYT U.S. map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [NYT](https://www.nytimes.com/)
 - [Our World in Data](https://ourworldindata.org/coronavirus)
+- [PAHO Covid-19 portal](https://covid19-evidence.paho.org/)
 - [Public Health England](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-background-information/wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features)
 - [Raw Johns Hopkins data](https://github.com/CSSEGISandData/COVID-19)
 - [Reddit China Flu](https://www.reddit.com/r/China_Flu/)
@@ -75,11 +76,12 @@
 - [Wall Street Journal](https://www.wsj.com/)
 - [Washington D.C. surveillance page](https://coronavirus.dc.gov/page/coronavirus-surveillance-data)
 - [Washington Post](https://www.washingtonpost.com/)
+- [WHO Global Research on Covid-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
 - [WHO dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - [WHO situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak)
-- [Worldometers](https://www.worldometers.info/coronavirus/)
+- [Worldometer](https://www.worldometers.info/coronavirus/)
 - [WSJ coronavirus update page](https://www.wsj.com/livecoverage/coronavirus)
  
  
