@@ -24,6 +24,7 @@
 - [ESRI Data](https://coronavirus-resources.esri.com/#get-data)
 - [Eureka Alert](https://www.eurekalert.org/)
 - [European Center for Disease Control and Prevention](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html)
+- [Evidence Collection](https://www.evidenceaid.org/coronavirus-covid-19-evidence-collection/)
 - [FDA press releases](https://www.fda.gov/news-events/fda-newsroom/press-announcements)
 - [Financial Times](https://www.ft.com/)
 - [Financial Times tracker](https://www.ft.com/coronavirus-latest)
