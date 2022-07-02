@@ -1,0 +1,48 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome5",
+    "definitions": {
+        "Welcome5": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "Filename": {
+                    "type": "string"
+                },
+                "Tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "Note": {
+                    "type": "string"
+                },
+                "Source": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "uri",
+                        "qt-uri-protocols": [
+                            "https"
+                        ]
+                    }
+                },
+                "Link": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "Filename",
+                "Link",
+                "Note",
+                "Source",
+                "Tags"
+            ],
+            "title": "Welcome5"
+        }
+    }
+}
