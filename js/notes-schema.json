@@ -1,12 +1,12 @@
 {
     "$schema": "http://json-schema.org/draft-06/schema#",
-    "$ref": "#/definitions/Welcome5",
+    "$ref": "#/definitions/Notes",
     "definitions": {
-        "Welcome5": {
+        "Notes": {
             "type": "object",
             "additionalProperties": false,
             "properties": {
-                "Filename": {
+                "File": {
                     "type": "string"
                 },
                 "Tags": {
@@ -21,14 +21,10 @@
                 "Source": {
                     "type": "array",
                     "items": {
-                        "type": "string",
-                        "format": "uri",
-                        "qt-uri-protocols": [
-                            "https"
-                        ]
+                        "type": "string"
                     }
                 },
-                "Link": {
+                "Links": {
                     "type": "array",
                     "items": {
                         "type": "string"
@@ -36,13 +32,13 @@
                 }
             },
             "required": [
-                "Filename",
-                "Link",
+                "File",
+                "Links",
                 "Note",
                 "Source",
                 "Tags"
             ],
-            "title": "Welcome5"
+            "title": "Notes"
         }
     }
 }
